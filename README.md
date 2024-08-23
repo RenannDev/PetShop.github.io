@@ -1,3 +1,5 @@
+#   PROJETO COMPLETO NO MEU REPOSITÓRIO Pet-Shop-Web-Site
+
 🐾 Pet Shop - Website Bem-vindo ao repositório do Pet Shop, um website elegante e funcional desenvolvido para uma loja de animais de estimação. Este projeto foi construído com HTML5 e CSS3, focando na experiência do usuário e em um design moderno e responsivo.
 
 🎯 Objetivo do Projeto O objetivo deste projeto é criar uma presença online atraente para um pet shop, proporcionando aos clientes uma interface amigável, fácil de navegar, e que transmita o carinho e cuidado dedicados aos seus animais de estimação.
